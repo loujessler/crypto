@@ -1,0 +1,10 @@
+__pycache__
+crypto
+btc_qr.png
+card.jpeg
+eth_qr.png
+trx_qr.png
+usdt_qr.png
+Procfile
+tokens.py
+runtime.txt
